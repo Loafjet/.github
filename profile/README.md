@@ -12,14 +12,13 @@ Loafjet is a ***light weight*** Toast(Loaf) generator framework which allows the
 * If its a valid contribution then your contribution will be merged, and you can be part of the organisation.
 
 ## Useful resources 📌
-* [Loafjet Website]()
+* [Loafjet Website](https://loafjet.github.io/Loafjet/)
 * [Loafjet](https://github.com/Loafjet/Loafjet)
+* [Medium Blogs](https://gokulnair-2001.medium.com/loafjet-a-toast-replacement-for-swift-3fd9a1563401)
 
 ## Apps using Loafjet ❤️
 | Dock! |
 | ----- |
 | <a href="https://apps.apple.com/in/app/dock/id1569386912"><img src = "https://user-images.githubusercontent.com/56252259/127950419-06629304-973a-4e6d-9a90-040af7beb61d.png" width = 150, height = 150> |
 
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://guides.github.com/features/mastering-markdown/)
-
+* To know more about Loafjet do check [Loafjet](https://github.com/Loafjet/Loafjet)
