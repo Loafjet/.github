@@ -15,6 +15,8 @@ Loafjet is a ***light weight*** Toast(Loaf) generator framework which allows the
 * [Loafjet](https://github.com/Loafjet/Loafjet)
 * [Medium Blogs](https://gokulnair-2001.medium.com/loafjet-a-toast-replacement-for-swift-3fd9a1563401)
 
+<img width="1242" alt="Screenshot 2022-02-04 at 1 13 42 PM" src="https://user-images.githubusercontent.com/56252259/152492070-c71d8e9d-11af-4175-b8fd-eeb3443cc3f6.png">
+
 **Our Simulation App is available on App Store, Go check it out!** 
 
 [<img src = "https://user-images.githubusercontent.com/56252259/148154222-3db54beb-2916-419b-996c-4d57d2ee3e3d.png" width = 210, height = 60>](https://apps.apple.com/in/app/loafjet/id1603181291)
