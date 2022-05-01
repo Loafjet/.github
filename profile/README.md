@@ -23,8 +23,9 @@ Loafjet is a ***light weight*** Toast(Loaf) generator framework which allows the
 [<img src = "https://user-images.githubusercontent.com/56252259/148154222-3db54beb-2916-419b-996c-4d57d2ee3e3d.png" width = 210, height = 60>](https://apps.apple.com/in/app/loafjet/id1603181291)
 
 ## Apps using Loafjet ❤️
-| Dock! |
-| ----- |
-| <a href="https://apps.apple.com/in/app/dock/id1569386912"><img src = "https://user-images.githubusercontent.com/56252259/127950419-06629304-973a-4e6d-9a90-040af7beb61d.png" width = 150, height = 150> |
-
+| Dock! | LinkBoard |
+| ----- | ----- |
+| <a href="https://apps.apple.com/in/app/dock/id1569386912"><img src = "https://user-images.githubusercontent.com/56252259/127950419-06629304-973a-4e6d-9a90-040af7beb61d.png" width = 150, height = 150> | <a href="https://apps.apple.com/us/app/linkboard-link-organiser/id1616404530"><img src = "https://user-images.githubusercontent.com/56252259/166141257-8f68eb9b-0f93-4fa7-bace-a363311273c2.png" width = 150, height = 150> |
+ 
+  
 * To know more about Loafjet do check [Loafjet](https://github.com/Loafjet/Loafjet)
